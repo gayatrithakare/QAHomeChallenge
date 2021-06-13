@@ -9,9 +9,13 @@
      Exepense management is a heart or core functionality of this application.Generally, Expense/Spendings is what people mostly interested in.
 
 2. What kind of risks you need to mitigate for this type of application?
-   Risk: Insufficient Regression time and Incomplete validation
- => This risk can be resolved by splitting the development into interations, getting continuous feedback from stakeholders
- 
+   
+    Risk 1: Insufficient Regression time and Incomplete validation
+ => This risk can be resolved by splitting the development into interations and testing the same in individual sprints
+    
+    
+    Risk 2: Some of the modules are not user friendly
+ => It can be reolved by getting continuous feedback from stakeholders and frequent demonstrations of new functionality
  
  
 ## Exploratory Charter 1:
